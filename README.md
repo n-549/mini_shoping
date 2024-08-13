@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## shop page
 ![image](https://github.com/user-attachments/assets/0aa85281-f038-458a-a484-37aa8996af3f)
+
+## Cart page
+![image](https://github.com/user-attachments/assets/9de764ac-ab62-4ac4-9dfc-b0f9d38db415)
